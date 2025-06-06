@@ -1,0 +1,4 @@
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjson.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjson.Plugins.AssemblyInfoInputs.cache
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjson.Plugins.AssemblyInfo.cs
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjson.Plugins.csproj.CoreCompileInputs.cache

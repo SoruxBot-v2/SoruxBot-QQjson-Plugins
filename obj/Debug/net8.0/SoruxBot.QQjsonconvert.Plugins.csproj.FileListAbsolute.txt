@@ -1,0 +1,12 @@
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\bin\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.deps.json
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\bin\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\bin\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.pdb
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.csproj.AssemblyReference.cache
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.AssemblyInfoInputs.cache
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.AssemblyInfo.cs
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\refint\SoruxBot.QQjsonconvert.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\SoruxBot.QQjsonconvert.Plugins.pdb
+C:\Users\79826\Desktop\SoruxBot.QQjson.Plugins\obj\Debug\net8.0\ref\SoruxBot.QQjsonconvert.Plugins.dll
